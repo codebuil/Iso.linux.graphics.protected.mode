@@ -11,3 +11,6 @@ uses the files in dir bios
 bios/core/*.bin
 bios/core/*.bbs
 bios/com32/*.c32
+
+im used a com file hello.com to set the screen mode and set the data
+next run the command hello.c32
